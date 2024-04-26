@@ -34,6 +34,10 @@ Duration: March 13th 2024 - May 1st 2024
 
 - Implemented sound effects for navigation and selection of the UI system
 
-![Main Menu & How to Play Menu.gif](Main%20Menu%20%26%20How%20to%20Play%20Menu.gif)
+*The gifs below are captured before the full implementation of art assets
 
-![Navigating Through Menus.gif](Navigating%20Through%20Menus.gif)
+![Main Menu & How to Play Menu.gif](Gifs%2FMain%20Menu%20%26%20How%20to%20Play%20Menu.gif)
+
+![Navigating Through Menus.gif](Gifs%2FNavigating%20Through%20Menus.gif)
+
+## Challenges
