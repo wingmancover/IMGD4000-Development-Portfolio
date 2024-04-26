@@ -34,4 +34,6 @@ Duration: March 13th 2024 - May 1st 2024
 
 - Implemented sound effects for navigation and selection of the UI system
 
-![Engine 2024.04.25 - 20.38.07.01 00_00_00-00_00_30.gif](..%2F..%2F..%2FFFOutput%2FEngine%202024.04.25%20-%2020.38.07.01%2000_00_00-00_00_30.gif)
+![Main Menu & How to Play Menu.gif](Main%20Menu%20%26%20How%20to%20Play%20Menu.gif)
+
+![Navigating Through Menus.gif](Navigating%20Through%20Menus.gif)
