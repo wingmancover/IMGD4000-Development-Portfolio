@@ -36,9 +36,9 @@ Don't forget to use power-ups to gain advantage!
 
 - Implemented sound effects for navigation and selection of the UI system
 
-*The gifs below are captured before the full implementation of art assets
+![Splash Screen.gif](Gifs%2FSplash%20Screen.gif)
 
-![Main Menu & How to Play Menu.gif](Gifs%2FMain%20Menu%20%26%20How%20to%20Play%20Menu.gif)
+![Main Menu Stuff.gif](Gifs%2FMain%20Menu%20Stuff.gif)
 
 ![Navigating Through Menus.gif](Gifs%2FNavigating%20Through%20Menus.gif)
 
