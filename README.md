@@ -1,7 +1,9 @@
 # Zesheng Chen - Development Portfolio
 
 ## Game Title: Chord Clash
-Link to team website and download our game: https://sites.google.com/view/chordclash/builds/beta
+Link to team website and download our game:
+
+https://sites.google.com/view/chordclash/builds/beta
 
 ## Game Info
 **Genre**: Rhythm, Local Multiplayer, Combat
@@ -26,7 +28,7 @@ Don't forget to use power-ups to gain advantage!
 - Implemented a navigation system that allows both players to navigate all the menus and make selections with keyboards only
 
 
-- Implemented UI designs from the tech team's mock-up to improve the appearance of the UI system
+- Implemented the Splash Screen, and UI designs from the tech team's mock-up to improve the appearance of the UI system
 
 
 - Implemented logic to correctly update the respective color for both players without interfering with each other's, including navigation and selection
