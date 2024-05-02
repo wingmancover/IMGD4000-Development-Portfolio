@@ -40,7 +40,7 @@ Don't forget to use power-ups to gain advantage!
 
 ![Main Menu Stuff.gif](Gifs%2FMain%20Menu%20Stuff.gif)
 
-![Navigating Through Menus.gif](Gifs%2FNavigating%20Through%20Menus.gif)
+![Navigating Menus.gif](Gifs%2FNavigating%20Menus.gif)
 
 ## Challenges
 - This is my first time using Unreal Engine for game development. It is my most significant challenge because I need to watch many tutorials and ask for help to familiarize the functionality of Unreal Engine 5. Since our game was developed solely using Blueprints instead of C++, I struggled with the basics of Blueprints at the beginning of our game production. With the help of tutorial videos and online resources, I was able to understand the use of Blueprints and implement them in our game.
